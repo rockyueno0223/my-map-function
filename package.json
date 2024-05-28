@@ -1,0 +1,21 @@
+{
+  "name": "@rockyueno/my-map-function",
+  "version": "1.0.1",
+  "description": "This is my first package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "map": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rockyueno0223/my-map-function.git"
+  },
+  "keywords": [
+    "myMap"
+  ],
+  "author": "Hiroki Ueno",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {}
+}
