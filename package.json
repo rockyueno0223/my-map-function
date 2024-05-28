@@ -1,6 +1,6 @@
 {
   "name": "@rockyueno/my-map-function",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This is my first package.",
   "main": "index.js",
   "scripts": {
