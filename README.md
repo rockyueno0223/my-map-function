@@ -10,5 +10,5 @@ npm install @rockyueno/my-map-function
 
 ```js
 const myPackage = require("@rockyueno0223/my-map-function");
-const result = myPackage.myMap(array);
+const result = myPackage.myMap(callbackFn)(array);
 ```
